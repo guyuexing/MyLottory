@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>titleImg</key>
+		<string>discovery_groupBuy_title</string>
+		<key>imageName</key>
+		<string>discovery_groupBuy_icon</string>
+		<key>subTitle</key>
+		<string>跟着高手买 奖金一起分</string>
+	</dict>
+	<dict>
+		<key>titleImg</key>
+		<string>discovery_joySquare_title</string>
+		<key>imageName</key>
+		<string>discovery_joySquare_icon</string>
+		<key>subTitle</key>
+		<string>跟着高手买 奖金一起分</string>
+	</dict>
+	<dict>
+		<key>titleImg</key>
+		<string>discovery_luckyBet_title</string>
+		<key>imageName</key>
+		<string>discovery_luckyBet_icon</string>
+		<key>subTitle</key>
+		<string>引爆财运 命中注定中大奖</string>
+	</dict>
+	<dict>
+		<key>titleImg</key>
+		<string>discovery_news_title</string>
+		<key>imageName</key>
+		<string>discovery_news_icon</string>
+		<key>subTitle</key>
+		<string>跟着高手买 奖金一起分</string>
+	</dict>
+</array>
+</plist>

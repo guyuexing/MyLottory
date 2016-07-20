@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ZHHeader</key>
+		<string></string>
+		<key>ZHFooter</key>
+		<string></string>
+		<key>ZHItems</key>
+		<array>
+			<dict>
+				<key>ZHTitle</key>
+				<string>开奖推送</string>
+				<key>ZHAccessary</key>
+				<string>UIImageView</string>
+				<key>ZHAccImgName</key>
+				<string>arrow_right</string>
+			</dict>
+			<dict>
+				<key>ZHTitle</key>
+				<string>比分直播推送</string>
+				<key>ZHAccessary</key>
+				<string>UIImageView</string>
+				<key>ZHAccImgName</key>
+				<string>arrow_right</string>
+			</dict>
+			<dict>
+				<key>ZHTitle</key>
+				<string>中奖动画</string>
+				<key>ZHAccessary</key>
+				<string>UIImageView</string>
+				<key>ZHAccImgName</key>
+				<string>arrow_right</string>
+			</dict>
+			<dict>
+				<key>ZHTitle</key>
+				<string>购彩提醒</string>
+				<key>ZHAccessary</key>
+				<string>UIImageView</string>
+				<key>ZHAccImgName</key>
+				<string>arrow_right</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
